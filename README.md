@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋 I'm Roei Shchory</h1>
 <h3 align="center">Backend Engineer</h3>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=roeishc&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="roeishc" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=roeishc&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="roeishc streak stats" /></p>
 
 Welcome to my GitHub page!
 
@@ -17,3 +17,7 @@ Thanks for stopping by!
 
 📧 Email: roei.shchory@gmail.com <br>
 📘 LinkedIn: www.linkedin.com/in/roeis <br>
+
+---
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roeishc&exclude_repo=human-activity-recognition&langs_count=8&theme=transparent&layout=compact" alt="roeishc lang stats" /> </p>
