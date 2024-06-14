@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi there!👋 I'm Roei Shchory</h1>
+<h3 align="center">Backend Engineer</h3>
 
-<!--
-**roeishc/roeishc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="https://streak-stats.demolab.com?user=roeishc&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="roeishc" /></p>
 
-Here are some ideas to get you started:
+Welcome to my GitHub page!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a budding Backend Engineer specializing in **Java & Spring Boot**. I'm currently honing my skills through hands-on projects and deepening my expertise in **AWS, Docker, Git & GitHub**, and database management.
+
+In addition, I'm practicing LeetCode and am enjoying tackling problems and learning about different quirks and features in programming. You're welcome to take a look at my journey in my `leetcode` [repository](https://github.com/roeishc/leetcode) ✍️
+
+Thanks for stopping by!
+
+---
+
+### Let's talk!
+
+📧 Email: roei.shchory@gmail.com <br>
+📘 LinkedIn: www.linkedin.com/in/roeis <br>
