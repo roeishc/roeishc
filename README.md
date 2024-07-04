@@ -5,7 +5,8 @@
 
 Welcome to my GitHub page!
 
-I'm a budding Backend Engineer specializing in **Java & Spring Boot**. I'm currently honing my skills through hands-on projects and deepening my expertise in using **AWS, Docker, Git & GitHub**, and database management.
+I'm a budding Backend Engineer specializing in **Java & Spring Boot**.<br>
+So far, I used Docker, AWS, PostgreSQL, MongoDB, Redis, Cassandra, Kafka, and Elasticsearch in my projects. I love making stuff work seamlessly!
 
 In addition, I'm practicing LeetCode and am enjoying tackling problems and learning about different quirks and features in programming. You're welcome to take a look at my journey in my `leetcode` [repository](https://github.com/roeishc/leetcode) 🧑‍💻
 
